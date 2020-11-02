@@ -1,7 +1,8 @@
 #!/bin/bash
 #author：luoxf
 #write time 2020-10-27 9:00
-#author Mob_phone:18698872215 E-mail：18698872215@163.com
+#author Mob_phone:18698872215 
+#E-mail：18698872215@163.com
 
 #defind Variable
 Backup_dir="/backup"
